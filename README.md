@@ -12,6 +12,7 @@ Chapter 1 - Complet , corrected and finish .
 #Chapter 2 gives details about the flour and from what is made #
 
 Chapter 2 - Created and started the story , did some research also.
+Chapter 2 - Added some research made for wheat grains(because that's from what flour is made).
 
 
 for this repo, to use as a starting point for your story
