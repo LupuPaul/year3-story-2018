@@ -3,11 +3,15 @@ Bread's Story .
 
 This is the story of bread .
 
+#Chapter 1 is about history of bread .#
+
 Chapter 1 - Created and started the story .
-
-Chapter 1 - Continued the story and progress was made.(Added details and made corection) 
-
+Chapter 1 - Continued the story and progress was made.(Added details and made corection) .
 Chapter 1 - Complet , corrected and finish .
+
+#Chapter 2 gives details about the flour and from what is made #
+
+Chapter 2 - Created and started the story , did some research also.
 
 
 for this repo, to use as a starting point for your story
