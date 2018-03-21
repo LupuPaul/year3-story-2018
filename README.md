@@ -15,6 +15,10 @@ Chapter 2 - Created and started the story , did some research also.
 Chapter 2 - Added some research made for wheat grains(because that's from what flour is made)
 Chapter 2 - Finished, Corected.
 
+#Chapter 3 describe the baking process.#
+
+Chapter 3 - Started and created the story .
+
 
 for this repo, to use as a starting point for your story
 (and don't forget to complete your assessment by making a 'pull request' back to me...)
