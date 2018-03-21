@@ -28,6 +28,8 @@ Chapter 3 - Finished the story , last chapter finish.
 Chapter 3 - Alernative ending added. 
 Chapter 3 -Alternate ending , added some supertitions about bread .
 
+All chapter had a finish to blend with the next chapter.
+
 
 
 .gitignore file created and added file of ideas to it.
