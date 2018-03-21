@@ -18,6 +18,7 @@ Chapter 2 - Finished, Corected.
 #Chapter 3 describe the baking process.#
 
 Chapter 3 - Started and created the story .
+Chapter 3 - added details about baking and oven times .
 
 
 for this repo, to use as a starting point for your story
