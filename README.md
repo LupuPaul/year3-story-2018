@@ -1,4 +1,7 @@
 # year3-story-2018
+
+https://github.com/LupuPaul/year3-story-2018.git
+
 Bread's Story .
 
 This is the story of bread .
@@ -23,6 +26,8 @@ Chapter 3 - Finished the story , last chapter finish.
 
 
 .gitignore file created and added file of ideas to it.
+
+Issue- Chapter names changed after issue was raised 
 
 
 for this repo, to use as a starting point for your story
