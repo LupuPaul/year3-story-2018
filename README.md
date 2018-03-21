@@ -24,7 +24,10 @@ Chapter 3 - Started and created the story .
 Chapter 3 - added details about baking and oven times .
 Chapter 3 - Finished the story , last chapter finish.
 
-#Chapter 3 - Alernative ending added. 
+#Alternate ending#
+Chapter 3 - Alernative ending added. 
+Chapter 3 -Alternate ending , added some supertitions about bread .
+
 
 
 .gitignore file created and added file of ideas to it.
