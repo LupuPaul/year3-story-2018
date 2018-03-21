@@ -24,6 +24,8 @@ Chapter 3 - Started and created the story .
 Chapter 3 - added details about baking and oven times .
 Chapter 3 - Finished the story , last chapter finish.
 
+#Chapter 3 - Alernative ending added. 
+
 
 .gitignore file created and added file of ideas to it.
 
