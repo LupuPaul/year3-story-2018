@@ -22,6 +22,9 @@ Chapter 3 - added details about baking and oven times .
 Chapter 3 - Finished the story , last chapter finish.
 
 
+.gitignore file created and added file of ideas to it.
+
+
 for this repo, to use as a starting point for your story
 (and don't forget to complete your assessment by making a 'pull request' back to me...)
 
